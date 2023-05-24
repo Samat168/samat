@@ -1,0 +1,42 @@
+.footer {
+  list-style-type: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  display: flex;
+  width: 100%;
+  background-color: #7c44f1;
+  align-items: center;
+  height: 200px;
+  overflow: hidden;
+}
+
+.footer_content {
+  display: flex;
+  align-items: center;
+  margin: 0 100px;
+  background-color: #280f5b;
+  width: 240px;
+  height: 71px;
+  border-radius: 15px;
+}
+
+.rate {
+  width: 96px;
+  height: 23px;
+  margin: 0 5px;
+}
+.footer_content_desc {
+  color: #ffffff;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+}
+.footer_content_desc2 {
+  color: #bdbdbd;
+  font-size: 14px;
+}
+ul {
+  list-style-type: none;
+  margin: 0 50px;
+  font-size: 15px;
+}
